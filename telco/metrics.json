@@ -1,6 +1,7 @@
-{
+[
 
-  "WIZARD_TELCO_METRICS": {
+  {
+    "name": "WIZARD_TELCO_METRICS",
     "defaultAggregate": "AVG",
     "defaultResolutionMS": 1000,
     "description": "Total Metrics",
@@ -9,7 +10,8 @@
     "isDisabled": 0,
     "unit": "number"
   },
-   "WIZARD_TELCO_MEASUREMENTS": {
+   {
+    "name": "WIZARD_TELCO_MEASUREMENTS",
     "defaultAggregate": "AVG",
     "defaultResolutionMS": 1000,
     "description": "Total Measurements",
@@ -19,4 +21,5 @@
     "unit": "number"
   }
 
-}
+]
+

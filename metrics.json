@@ -1,6 +1,7 @@
-{
+[
 
-  "WIZARD_GLOBAL_METRICS": {
+  {
+    "name": "WIZARD_GLOBAL_METRICS",
     "defaultAggregate": "AVG",
     "defaultResolutionMS": 1000,
     "description": "Total Metrics",
@@ -9,7 +10,8 @@
     "isDisabled": 0,
     "unit": "number"
   },
-   "WIZARD_GLOBAL_MEASUREMENTS": {
+   {
+    "name": "WIZARD_GLOBAL_MEASUREMENTS",
     "defaultAggregate": "AVG",
     "defaultResolutionMS": 1000,
     "description": "Total Measurements",
@@ -19,10 +21,4 @@
     "unit": "number"
   }
 
-}
-
-
-			   
-			   
-			   
-			   
+]
