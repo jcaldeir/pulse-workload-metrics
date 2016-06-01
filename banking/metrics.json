@@ -4,9 +4,9 @@
     "name": "WIZARD_BANKING_METRICS",
     "defaultAggregate": "AVG",
     "defaultResolutionMS": 1000,
-    "description": "Total Metrics",
-    "displayName": "Total Metrics",
-    "displayNameShort": "Total Metrics",
+    "description": "Total WBM",
+    "displayName": "Total WBM",
+    "displayNameShort": "Total WBM",
     "isDisabled": 0,
     "unit": "number"
   },
@@ -14,9 +14,9 @@
     "name": "WIZARD_BANKING_MEASUREMENTS",
     "defaultAggregate": "AVG",
     "defaultResolutionMS": 1000,
-    "description": "Total Measurements",
-    "displayName": "Total Measurements",
-    "displayNameShort": "Total Measurements",
+    "description": "Total WBME",
+    "displayName": "Total WBME",
+    "displayNameShort": "Total WBME",
     "isDisabled": 0,
     "unit": "number"
   }

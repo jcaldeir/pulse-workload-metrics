@@ -4,9 +4,9 @@
     "name": "WIZARD_TELCO_METRICS",
     "defaultAggregate": "AVG",
     "defaultResolutionMS": 1000,
-    "description": "Total Metrics",
-    "displayName": "Total Metrics",
-    "displayNameShort": "Total Metrics",
+    "description": "Total WTM",
+    "displayName": "Total WTM",
+    "displayNameShort": "Total WTM",
     "isDisabled": 0,
     "unit": "number"
   },
@@ -14,9 +14,9 @@
     "name": "WIZARD_TELCO_MEASUREMENTS",
     "defaultAggregate": "AVG",
     "defaultResolutionMS": 1000,
-    "description": "Total Measurements",
-    "displayName": "Total Measurements",
-    "displayNameShort": "Total Measurements",
+    "description": "Total WTME",
+    "displayName": "Total WTME",
+    "displayNameShort": "Total WTME",
     "isDisabled": 0,
     "unit": "number"
   }
