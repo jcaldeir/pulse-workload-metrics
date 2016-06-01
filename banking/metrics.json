@@ -1,0 +1,22 @@
+{
+
+  "WIZARD_BANKING_METRICS": {
+    "defaultAggregate": "AVG",
+    "defaultResolutionMS": 1000,
+    "description": "Total Metrics",
+    "displayName": "Total Metrics",
+    "displayNameShort": "Total Metrics",
+    "isDisabled": 0,
+    "unit": "number"
+  },
+   "WIZARD_BANKING_MEASUREMENTS": {
+    "defaultAggregate": "AVG",
+    "defaultResolutionMS": 1000,
+    "description": "Total Measurements",
+    "displayName": "Total Measurements",
+    "displayNameShort": "Total Measurements",
+    "isDisabled": 0,
+    "unit": "number"
+  }
+
+}
