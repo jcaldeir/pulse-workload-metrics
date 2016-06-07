@@ -1,0 +1,24 @@
+[
+
+  {
+    "name": "WIZARD_PERSONAL_METRICS",
+    "defaultAggregate": "AVG",
+    "defaultResolutionMS": 1000,
+    "description": "Total WPME",
+    "displayName": "Total WPME",
+    "displayNameShort": "Total WPME",
+    "isDisabled": 0,
+    "unit": "number"
+  },
+   {
+    "name": "WIZARD_PERSONAL_MEASUREMENTS",
+    "defaultAggregate": "AVG",
+    "defaultResolutionMS": 1000,
+    "description": "Total WPM",
+    "displayName": "Total WPM",
+    "displayNameShort": "Total WPM",
+    "isDisabled": 0,
+    "unit": "number"
+  }
+  
+]
